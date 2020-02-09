@@ -7,7 +7,6 @@ body {
   align-items: center;
   justify-content: center;
 }
-
 div {
   width: 100px;
   height: 100px;
@@ -19,6 +18,14 @@ div {
 
 .blue {
   background-color: blue;
+}
+
+.green{
+  background-color: green;
+}
+
+.yellow{
+  background-color: yellow;
 }
 
 .invisible {
